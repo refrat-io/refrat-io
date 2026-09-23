@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://refrat.com.br">
-  <img src="https://refrat.com.br/assets/emails/lemniscata.webp" width="160" height="74" alt="Refrat" />
+  <img src="https://refrat.com.br/assets/emails/lemniscate.svg" width="160" height="74" alt="Refrat" />
   <h1>Refrat</h1>
   <p>Software</p>
   </a>
